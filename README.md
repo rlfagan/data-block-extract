@@ -1,4 +1,6 @@
 # HTML5 data block extractor
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fdata-block-extract.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fdata-block-extract?ref=badge_shield)
+
 
 Did you know you can embed "raw" data into an HTML `<script>` tag? The HTML5
 spec calls them [data blocks](https://www.w3.org/TR/html5/semantics-scripting.html#data-block).
@@ -50,3 +52,6 @@ At the moment there is no additional parsing, but that's coming!
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2Fdata-block-extract.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2Fdata-block-extract?ref=badge_large)
